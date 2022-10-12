@@ -1,0 +1,27 @@
+.stepper{
+    margin-bottom: 90px;
+}
+
+.btn-circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%; 
+    text-align: center;
+    border: 1px solid #f3f3f3;
+    color:#828a9c
+}
+
+.btn-circle:hover{
+    border-radius: 50% !important;
+    text-align: center !important;
+    border: 1px solid #f3f3f3 !important;
+    color: #828a9c !important;
+}
+
+
+.connector{
+    width: 30px;
+    height:1px;
+    background-color: #ecf0f6;
+    text-align: center;
+}

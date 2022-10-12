@@ -1,0 +1,38 @@
+.heading {
+    font-weight: 600;
+    text-align: center;
+}
+
+.sub-heading {
+    color: #717d94;
+    text-align: center;
+}
+
+.custom-card{
+    width: 175px;
+    height:175px;
+}
+.custom-card:hover{
+    cursor: pointer;
+}
+
+.custom-icon{
+    font-size: 25px;
+}
+
+.custom-card-title{
+    color: #28303b;
+    font-weight: 600;
+}
+
+.custom-card-content{
+    color: #717d94;
+    font-size: small;
+    font-weight: 500;
+}
+
+
+
+button {
+    width: 380px;
+}
