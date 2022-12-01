@@ -1,4 +1,4 @@
-#Design Mockup (Assignment)
+# Design Mockup (Assignment)
 https://dribbble.com/shots/15669113-Onboarding-Exploration
 
 # UI MockUp Hosted on Following URL (Solution)
